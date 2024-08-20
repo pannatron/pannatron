@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 ## 🛠 Technologies & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ROS-22314E?style=flat-square&logo=ROS&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ROS&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Machine%20Learning-FE7A16?style=flat-square&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Computer%20Vision-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=Solidity&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Ansible_logo.svg/1200px-Ansible_logo.svg.png" alt="Ansible" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="60" height="60"/>
 </p>
+
