@@ -28,7 +28,11 @@ You can reach me via email at bong.pannatorn@gmail.com or connect with me on Lin
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50"/>
   <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" alt="HTML" width="60"/>
   <img src="https://moralis.io/wp-content/uploads/2023/09/Title-Write-a-Smart-Contract-in-Solidity.png" alt="Solidity" width="120"/>
+  <img src="https://logowik.com/content/uploads/images/nextjs2106.logowik.com.webp" alt="Nex.js" width="73"/>
+
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="55"/>
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/reactjs_logo_icon_170805.png" alt="React.js" width="120"/>
+
 </p>
 
 ### Machine Learning & AI
@@ -70,4 +74,8 @@ You can reach me via email at bong.pannatorn@gmail.com or connect with me on Lin
   <img src="https://cryptologos.cc/logos/binance-coin-bnb-logo.png" alt="BNB" width="50"/>
   <img src="https://seeklogo.com/images/B/bitkub-logo-6F52B9622B-seeklogo.com.png" alt="Bitkub" width="70"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0LwLmEz-Kj_3_5E4ousYcm6qcvUJFCUVVLw&s" alt="Gala Chain" width="50"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6R_LQpaKbuLC3MXYid7M5Id771yTaY1ZaEA&s" alt="HardHat" width="50"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPggRMP3-XwNo2JswyLE90QEuVRtsEsntw2g&s" alt="truffle" width="70"/>
+  <img src="https://framerusercontent.com/images/T6AOW1ZtxnD91tK2b1WTVaxZA0.png" alt="Alchemy" width="95"/>
+
 </p>
