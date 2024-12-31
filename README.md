@@ -63,9 +63,11 @@ You can reach me via email at bong.pannatorn@gmail.com or connect with me on Lin
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50"/>
   <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" width="50"/>
   <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode" width="50"/>
-    <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Emblem.png" alt="Docker" width="85"/>
+  <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Emblem.png" alt="Docker" width="85"/>
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mqtt-hor.svg/1280px-Mqtt-hor.svg.png" alt="MQTT" width="150"/>
+    <img src="https://www.developer-tech.com/wp-content/uploads/2021/02/mongodb-atlas-google-cloud-partnership-nosql-databases-integrations-2.jpg" alt="Mongodb" width="100"/>
+
 </p>
 
 ### Blockchain Platforms
@@ -73,6 +75,8 @@ You can reach me via email at bong.pannatorn@gmail.com or connect with me on Lin
   <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" alt="Ethereum" width="50"/>
   <img src="https://cryptologos.cc/logos/binance-coin-bnb-logo.png" alt="BNB" width="50"/>
   <img src="https://seeklogo.com/images/B/bitkub-logo-6F52B9622B-seeklogo.com.png" alt="Bitkub" width="70"/>
+  <img src="https://logos-world.net/wp-content/uploads/2024/01/Solana-Logo.png" width="80"/>
+
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0LwLmEz-Kj_3_5E4ousYcm6qcvUJFCUVVLw&s" alt="Gala Chain" width="50"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6R_LQpaKbuLC3MXYid7M5Id771yTaY1ZaEA&s" alt="HardHat" width="50"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPggRMP3-XwNo2JswyLE90QEuVRtsEsntw2g&s" alt="truffle" width="70"/>
