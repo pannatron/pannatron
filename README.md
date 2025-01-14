@@ -32,6 +32,8 @@ You can reach me via email at bong.pannatorn@gmail.com or connect with me on Lin
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="55"/>
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/reactjs_logo_icon_170805.png" alt="React.js" width="120"/>
+    <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="GO" width="120"/>
+
 
 </p>
 
