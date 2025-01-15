@@ -54,8 +54,7 @@ You can reach me via email at bong.pannatorn@gmail.com or connect with me on Lin
   <img src="https://www.freshconsulting.com/wp-content/uploads/fly-images/33744/ROS-2_logo-1024x1024.png" alt="ROS2" width="150"/>
   <img src="https://img-c.udemycdn.com/course/750x422/5044760_62af.jpg" alt="Navigation" width="78"/>
     <img src="https://www.behaviortree.dev/img/logo.png" alt="Groot" width="50"/>
-    
-    <img src="https://moveit.ai/assets/images/blog_posts/moveit2_beta/moveit-2-logo-dark.png" alt="moveit" width="50"/>
+        <img src="https://moveit.ai/assets/images/blog_posts/moveit2_beta/moveit-2-logo-dark.png" alt="Moveit" width="50"/>
 
 </p>
 
