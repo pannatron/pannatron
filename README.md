@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/261290c2-705c-46e3-b5f6-f8bd3adaa8c0)## Hi there 👋
+## Hi there 👋
 
 Hello everyone! My name is Pannatorn. I have primarily been working in the field of robotics and automation systems, where I have developed a deep passion and extensive experience. Currently, I’m diving into simulators like Isaac Sim and exploring how to integrate Isaac Lab into robotics projects. In addition to my work in robotics, I also have experience in Web3 technologies and am very interested in expanding my knowledge and contributions in this exciting area.
 
