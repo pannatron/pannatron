@@ -1,4 +1,4 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/261290c2-705c-46e3-b5f6-f8bd3adaa8c0)## Hi there 👋
 
 Hello everyone! My name is Pannatorn. I have primarily been working in the field of robotics and automation systems, where I have developed a deep passion and extensive experience. Currently, I’m diving into simulators like Isaac Sim and exploring how to integrate Isaac Lab into robotics projects. In addition to my work in robotics, I also have experience in Web3 technologies and am very interested in expanding my knowledge and contributions in this exciting area.
 
@@ -55,6 +55,7 @@ You can reach me via email at bong.pannatorn@gmail.com or connect with me on Lin
   <img src="https://img-c.udemycdn.com/course/750x422/5044760_62af.jpg" alt="Navigation" width="78"/>
     <img src="https://www.behaviortree.dev/img/logo.png" alt="Groot" width="50"/>
     
+    <img src="https://moveit.ai/assets/images/blog_posts/moveit2_beta/moveit-2-logo-dark.png" alt="moveit" width="50"/>
 
 </p>
 
